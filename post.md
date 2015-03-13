@@ -205,7 +205,7 @@ If you are a programming language fanatic, you might find JavaScript ugly as hel
 
 If you don't like AngularJS for whatever reason, you might also have a problem with Ionic as they work so strong together. In that case, I can only recommend you to think about AngularJS again, or if you still don't like it to wait for React Native.
 
-Although we are in 2015, hybrid apps *can't* be native apps. Running in a webview always limis your behaviour and feeling a bit, but I am damn sure you won't see the difference most of the time, and pretty sure you are using hybrid apps and don't recognize it. If you are planning a 3D game or something with heavy graphics, I might recommend you more to [Unity3D](http://unity3d.com/5), but for most of all apps out there Ionic could definitely be the way to go.
+Although we are in 2015, hybrid apps *can't* be native apps. Running in a webview always limits your behaviour and feeling a bit, but I am damn sure you won't see the difference most of the time, and pretty sure you are using hybrid apps and don't recognize it. If you are planning a 3D game or something with heavy graphics, I might recommend you more to [Unity3D](http://unity3d.com/5), but for most of all apps out there Ionic could definitely be the way to go.
 
 ## 3 Building your app
 When it finally comes to building your app for distribution, Ionic comes with some tools which makes life a lot easier. 
