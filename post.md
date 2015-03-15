@@ -21,7 +21,7 @@ And which hybrid framework is free and gives developers all opportunities they n
 
 Let's combine those two awesome frameworks and you get? [Ionic](http://ionicframework.com/)!
 
-### 1.4 Why Ionic
+### 1.3 Why Ionic
 Ionic combines AngularJS (JavaScript by the way) with HTML5+CSS and uses Cordova to access native device functions. Moreover it's free, the fanbase and support is growing every day and finaly the team behind Ionic is awesome. Just check out [there](http://ionicframework.com/creator/) [side](https://apps.ionic.io/landing/push) [projects](http://ngcordova.com/) [and](http://ionicons.com/) [you](http://ionic.io/) [know](http://ionicframework.com/present-ionic/) what I mean.
 
 So all in all, Ionic offers great possibilities to build hybrid apps which not only look awesome, but which also behave as natural as a native app and rely on one shared code base. And if you a scared of JavaScript, it's not as bad as you might think. Give it a chance!
