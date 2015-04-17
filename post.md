@@ -3,9 +3,11 @@ I like Apple. And I really like to develop native iOS Apps with Obj-C or now Swi
 
 **You are not targeting about [80%](http://www.idc.com/prodserv/smartphone-os-market-share.jsp) of the market!**
 
-And if you want to reach a greater audience either why you or your customer wants it, or because you don't want to miss the income from the millions of possible users, you will need another app. Now the rage begins, because you will have to deal with Java (urgh) and learn the Android SDK, or hire someone. Anyway, you will end with 2 code bases you have to maintain, which will be a pain in the ass over time.
+And if you want to reach a greater audience because your customers are asking for it, or because you don't want to miss the income from the millions of possible users, you will need to make your app available on at least one other, if not more platforms. Now the rage begins. That's because in order to target (which dominates the global market, you will have to deal with Java (ugh) and learn the Android SDK, or hire someone else who can. Either way, as a result, you will end-up with at least two code bases  to maintain, which will be a pain in the ass over time.
 
-To solve this problem, hybrid development was invented and slowly made its way to the top. As there are still many prejudices and misunderstandings regarding those Frameworks, this article aims to show you *how* and *why* you should stick to the hybrid approach in your next mobile application project. 
+Enter hybrid development, which, among other things, eases your complexity by keeping you down to a single code-base for multiple target platforms like iOS and Android. In a nutshell, hybrid development involves developing apps as Web apps that run in a browser, and then wrapping them in such a way that they run as native apps on mobile operating systems like iOS and Android. In addition to the resulting single code-base which greatly simplifies management of your app's lifecycle, the hybridized versions of the Web app can be registered with Apple's App Store and Google's Play Store (something that's not possible with just a Web app).
+
+This article aims to show you how and why you should stick to the hybrid approach in your next mobile application project.
 
 ### 1.1 Welcome to 2015
 First of all, congratulations! We are in 2015 and this means you are way better of then 5 years ago, when hybrid development began to raise as a very promising area. The problem is, it was so shitty at that time, all the crappy apps have been burned into the minds of people which lead to preconceptions all around the globe.
